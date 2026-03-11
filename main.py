@@ -49,6 +49,7 @@ PIN_FILES = {
     "3926": "NARGIZA20.02.2026.pdf",
     "5906": "a-ss1245-121aa-hga.pdf",
     "4226": "0940-d7fc-1fazlidinakbaraliyev.pdf",
+    "8534": "asqarnurmamatov.8456.153.pdf",
 
 
 }
