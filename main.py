@@ -50,6 +50,7 @@ PIN_FILES = {
     "5906": "a-ss1245-121aa-hga.pdf",
     "4226": "0940-d7fc-1fazlidinakbaraliyev.pdf",
     "8534": "asqarnurmamatov.8456.153.pdf",
+    "8834": "abdumannobov8745-8574-5847.pdf",
 
 
 }
