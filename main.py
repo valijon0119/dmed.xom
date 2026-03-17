@@ -54,6 +54,7 @@ PIN_FILES = {
     "6190": "samandaresin0940-d7fc-1ebd12.pdf",
     "5806": "5478_56542-5ads-5647.pdf",
     "2234": "sultanovzafarjoonna02070156.pdf",
+    "9118": "XASANBOYEVSANJARBEKRUSTAMJON .pdf",
 
 
 }
