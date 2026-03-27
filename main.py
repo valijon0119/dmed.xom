@@ -56,6 +56,8 @@ PIN_FILES = {
     "2234": "sultanovzafarjoonna02070156.pdf",
     "9118": "XASANBOYEVSANJARBEKRUSTAMJO .pdf",
     "9599": "turdibekovakamolaxon90.pdf",
+    "9138": "2a45sa4d4d72a4s.pdf",
+    "4998": "2a45sa4d4d72a21534s.pdf",
 
 
 }
