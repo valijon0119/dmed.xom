@@ -64,6 +64,7 @@ PIN_FILES = {
     "4456": "ashhk44656ahsfdaj.pdf",
     "2032": "425115asd1d4fewa2nurbek.pdf",
     "8447": "radshbdgsggasbhgynd2135.pdf",
+    "9248": "20415512lazo.pdf",
 
 
 }
