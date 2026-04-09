@@ -67,6 +67,8 @@ PIN_FILES = {
     "9248": "20415512lazo.pdf",
     "0219": "2a45sa4d4d72a214s.pdf",
     "9955": "275a45sa4d4d72a47214s.pdf",
+    "8855": "gdvs545dbf454f7ds514s.pdf",
+    "1894": "tesn4555s4d55dds14s.pdf",
 
 
 }
